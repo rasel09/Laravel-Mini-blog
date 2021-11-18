@@ -4,6 +4,9 @@
 Laravel Mini-blog Home Pages
 ![laravel mini-blog-home-pages](https://user-images.githubusercontent.com/94438928/142345294-0e679359-9aec-47ee-a190-a0a3e0a41c8e.png)
 
+Laravel Mini-Blog daitesl pages 
+![laravel-mini-blog-datiels-pages](https://user-images.githubusercontent.com/94438928/142345947-4ef526ad-133a-4555-8c91-f21c1260eff6.png)
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
 
 <p align="center">
